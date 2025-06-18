@@ -6,7 +6,7 @@ earthquake occurrence at the Sumatra-Andaman subduction interface.
 
 ## Key Findings
 
-- **Earthquake Prediction**: Next large earthquake predicted between **2208-2228** (95% confidence interval)
+- **Earthquake Prediction**: Next large earthquake predicted (95% confidence interval)
 - **Station-Specific Predictions**:
   - ARAU (Malaysia): 2257 ± 22.1 years
   - KUAL (Malaysia): 2308 ± 62.7 years
